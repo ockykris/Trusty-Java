@@ -1,4 +1,4 @@
-FROM kristant/trusty-ubuntu
+FROM kristant/docker-ubuntu:trusty
 
 MAINTAINER Ocky Kristanto <ockykris@gmail.com>
 
